@@ -1,6 +1,6 @@
 # vue
 
-> lixuqiang-vue
+> lixuqiang-vue(第一次创建的vue项目)
 
 ## Build Setup
 
